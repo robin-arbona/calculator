@@ -1,6 +1,6 @@
 # Calculator 9000 with API !!
 
-Calculator 9000 is a caculate that allow you to store result or expression in local file by using an API
+Calculator 9000 is a caculate that allow you to store result or expression in local file by using an API. React APP use typescript.
 
  npm / node have to be installed
 
