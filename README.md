@@ -4,6 +4,12 @@ Calculator 9000 is a caculate that allow you to store result or expression in lo
 
 yarn / npm / node have to be installed
 
+## Clone project
+```
+git clone https://github.com/robin-arbona/calculator.git
+cd calculator
+```
+
 ## Installation & starting API
 
 ```
@@ -15,7 +21,7 @@ node index.mjs
 ## Start calculator
 
 ```
-cd calculator9000
+cd ..\calculator9000
 yarn install
 yarn start
 ```
