@@ -22,8 +22,8 @@ node index.mjs
 
 ```
 cd ..\calculator9000
-yarn install
-yarn start
+npm install
+npm start
 ```
 
 That's it! You can now calculate what ever you want and store results or expression
